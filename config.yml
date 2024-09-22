@@ -1,11 +1,20 @@
-# Add this for the theme:
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+title: "CHS Engineering Club"
+description: "CHS Engineering Roles"
 
-# Plugins required:
+theme: minima
+
+# Plugins
 plugins:
-  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-toc
 
-# Optional settings (you can modify these to your needs):
-title: "Your Site Title"
-description: "A description of your site"
+# Minima theme customization
+minima:
+  skin: dark # Choose 'dark', 'light', or 'default' as your color scheme
+
+# Social Links
+social_links: "" #add social media later
+  github: 
 
