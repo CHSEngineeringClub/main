@@ -1,1 +1,11 @@
+# Add this for the theme:
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+# Plugins required:
+plugins:
+  - jekyll-include-cache
+
+# Optional settings (you can modify these to your needs):
+title: "Your Site Title"
+description: "A description of your site"
 
